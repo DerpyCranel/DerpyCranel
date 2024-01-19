@@ -12,7 +12,7 @@
   </a>
   
  <ul>
-  <li>I'm FullStack Development</li>
+  <li>I'm Software engineer </li>
    <li>I'm currently open for an Intern or a new job opportunity</li>
    <li>I am currently learning AWS, Kubernetes, Docker and SpringBoot</li>
    
